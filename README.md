@@ -1,66 +1,40 @@
-<h1 align="center">Hey there, I'm Devashish Kunwar</h1>
-
 ###
+# 👋 Hi, I'm Devashish Kunwar
 
-<p align="left">I'm a passionate frontend developer with a love for creating seamless and intuitive user experiences. My goal is to craft beautiful, responsive, and high-performance web applications that delight users and stand out in the digital world.</p>
+I'm a passionate and self-driven **Frontend Developer** working towards becoming a full-fledged **MERN Stack Developer**. I enjoy building user-friendly, responsive web apps and solving coding problems.
 
-###
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, C#
+- **Frontend:** React.js, Tailwind CSS, Redux
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools:** Git, GitHub, Vite
 
-<h2 align="left">Technologies I Used</h2>
+## 🚀 Highlight Projects
+- 🔖 [**Note App**](https://github.com/Dev05-24/note-app): Create, edit, search, and delete notes with React, Redux, and Tailwind.
+- 📰 [**Newify**](https://github.com/Dev05-24/newify): A React + Vite news app that fetches and displays news using a public API.
+- 💼 [**Portfolio Website**](https://github.com/Dev05-24/portfolio): My personal portfolio built with React and Tailwind CSS.
 
-###
+## 🌱 Currently Learning
+- MERN Stack Development
+- Advanced Data Structures & Algorithms (DSA)
 
-<h4 align="left">Languages :</h4>
+## 🎯 Goal
+To become a skilled and confident **Web Developer**, capable of building full-stack applications.
 
-###
+## 📫 Connect With Me
+- 📧 Email: devkun.09.23@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/devashish-kunwar-533895177/)  
+- 🧠 [LeetCode](https://leetcode.com/u/DEV0902/)  
+- 🛠️ [GitHub](https://github.com/Dev05-24)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+## 📊 GitHub Stats
+![Devashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev05-24&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev05-24&layout=compact&theme=radical)
 
-###
+---
 
-<h4 align="left">Frameworks :</h4>
+Thanks for stopping by! 😊 Feel free to explore my repositories and connect!
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
-
-
-</div>
-
-###
-
-<h4 align="left">Tools :</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">Get In Touch :</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/devashish-kunwar-533895177" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
